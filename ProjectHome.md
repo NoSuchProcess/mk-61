@@ -1,0 +1,1 @@
+Replica of MK-61 programmable calculator is based on a cycle-accurate model of legacy ICs running on a modern microcontroller.
